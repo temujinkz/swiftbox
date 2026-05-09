@@ -4,14 +4,14 @@ Modern logistics landing page concept. Single‑file HTML page demonstrating gla
 
 ## Design
 
-- **Palette** — slate base with indigo accent
-- **Type** — Inter (UI), JetBrains Mono (numerics / labels)
-- **Effects** — frosted nav (`backdrop-filter: blur`), grid background, `clip-path` reveal animation on first paint
-- **Icons** — Iconify (Lucide set) via CDN
+- **Palette:** slate base with indigo accent
+- **Type:** Inter (UI), JetBrains Mono (numerics, labels)
+- **Effects:** frosted nav (`backdrop-filter: blur`), grid background, `clip-path` reveal animation on first paint
+- **Icons:** Iconify (Lucide set) via CDN
 
 ## Stack
 
-Plain HTML. Tailwind via CDN, Google Fonts, Iconify CDN — no build step. Open `index.html` and view.
+Plain HTML. Tailwind via CDN, Google Fonts, Iconify CDN. No build step, just open `index.html`.
 
 ## Structure
 
